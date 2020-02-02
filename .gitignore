@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Also ignore these files
-hawaii.sqlite
 config.py
 
 # C extensions
