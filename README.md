@@ -58,13 +58,13 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 
 ##### June Weather Statistics
 
-![](Images/June_Weather_Statistics.png)
+​											![](Images/June_Weather_Statistics.png)
 
 ​									 
 
 ##### November Weather Statistics
 
-![](Images/November_Weather_Statistics.png)
+​											![](Images/November_Weather_Statistics.png)
 
   
 
