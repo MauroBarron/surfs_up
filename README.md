@@ -25,32 +25,48 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 - In both months, half the days have less than 0.02 inches of rain.
 - 75% of the days in June have less than a 0.15 inches while in November 75% of the days have less than 0.09 inches. which means that it rains more frequently in June, but the storms are stronger in November.
 - Overall I would say in both months the rain is not a big factor on most days.  In June there are regular small rain storms while in November most days are dryer but the storms are more powerful.
+
 - Potentially, during bad stormy days in November the rain could very well affect business.
 
-      ![](Images/Oahu Daily Rain in Inches.png)
+  
 
-      ![](Images/Oahu%20November%20Daily%20Rain%20in%20Inches.png)
+  ​				![](Images/Oahu June Daily Rain in Inches.png)
+  
+  ​	
+  
+  ![](Images/Oahu November Daily Rain in Inches.png)
+  
+  
 
 ##### Analysis of Temperature Differences
 
 - Average temperature in June is 77 degrees while November is 74. This is a very small difference between the two months.
+
 - The standard deviation comparisons indicate that the a normal variance for November is 2.8 degrees while its 2.6 degrews in June. This is also another small difference  indicating a slightly greater variance in daily temperatures for November 
+
 - Noticeable  differences in temperature between months are seen at the extremes. 
   - November can be as cold as 63 degrees with a high of 80, while June low is only 71, with max of 83.
   - So the temp in June varies within a range of 12 degrees  while the November range is 17 degrees where the low of 63 is 11 degress below average.
+  
 - Overall, temperature in June and November tends to stay in the 70s with highs varying by six degrees above average in both months, and the lows in November dipping by a greater margin than June, to 63 degrees.
 
-      ![](/Images/"Oahu June Temperatures Statistics.png")
+  ​	
 
-      ![](/Images/Oahu%20November%20Temperatures%20Statistics.png)
+  ![](Images/Oahu June Temperatures.png)
+  
+  ![](Images/Oahu November Temperatures.png)
 
 ##### June Weather Statistics
 
-      ![](/Images/June%20Weather%20Statistics.png)
+![](Images/June Weather Statistics.png)
+
+​									 
 
 ##### November Weather Statistics
 
-      ![](/Images/November%20Weather%20Statistics.png)
+![](Images/November Weather Statistics.png)
+
+  
 
 ### 3 - Recommendations. 
 
