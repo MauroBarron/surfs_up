@@ -27,10 +27,9 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 - Overall I would say in both months the rain is not a big factor on most days.  In June there are regular small rain storms while in November most days are dryer but the storms are more powerful.
 - Potentially, during bad stormy days in November the rain could very well affect business.
 
+      ![](Images/Oahu Daily Rain in Inches.png)
 
-      ![](/Images/Oahu Daily Rain in Inches.png)
-
-      ![](/Images/Oahu%20November%20Daily%20Rain%20in%20Inches.png)
+      ![](Images/Oahu%20November%20Daily%20Rain%20in%20Inches.png)
 
 ##### Analysis of Temperature Differences
 
