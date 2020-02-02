@@ -28,7 +28,7 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 
 - Potentially, during bad stormy days in November the rain could very well affect business.
 
-  
+  ![](C:\Users\Marishka\Documents\DABootCamp\W10-M9-Surfs_Up\surfs_up\Images\fred.png)
 
   ​				![](Images/Oahu June Daily Rain in Inches.png)
   
