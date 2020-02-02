@@ -27,9 +27,9 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 - Overall I would say in both months the rain is not a big factor on most days.  In June there are regular small rain storms while in November most days are dryer but the storms are more powerful.
 - Potentially, during bad stormy days in November the rain could very well affect business.
 
-![](C:\Users\Marishka\Documents\DABootCamp\W10-M9-Surfs_Up\surfs_up\Images\Oahu Daily Rain in Inches.png)
+      ![](/Images/Oahu%20Daily%20Rain%20in%20Inches.png)
 
-![](C:\Users\Marishka\Documents\DABootCamp\W10-M9-Surfs_Up\surfs_up\Images\Oahu November Daily Rain in Inches.png)
+      ![](/Images/Oahu%20November%20Daily%20Rain%20in%20Inches.png)
 
 ##### Analysis of Temperature Differences
 
@@ -40,25 +40,17 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
   - So the temp in June varies within a range of 12 degrees  while the November range is 17 degrees where the low of 63 is 11 degress below average.
 - Overall, temperature in June and November tends to stay in the 70s with highs varying by six degrees above average in both months, and the lows in November dipping by a greater margin than June, to 63 degrees.
 
-![dsfa](/Images/June%20Weather%20Statistics.png)
-!{}(Images/Oahu June Temperatures.png)
+      ![](/Images/Oahu%20June%20Temperatures%20Statistics.png)
 
-
-
-
-![](C:\Users\Marishka\Documents\DABootCamp\W10-M9-Surfs_Up\surfs_up\Images\Oahu November Temperatures.png)
+      ![](/Images/Oahu%20November%20Temperatures%20Statistics.png)
 
 ##### June Weather Statistics
 
-![June Weather Statistics](/Images/June Weather Statistics.png)
-
-![]()
-
-![](C:\Users\Marishka\Documents\DABootCamp\W10-M9-Surfs_Up\surfs_up\Images\June Weather Statistics.png)
+      ![](/Images/June%20Weather%20Statistics.png)
 
 ##### November Weather Statistics
 
-![](C:\Users\Marishka\Documents\DABootCamp\W10-M9-Surfs_Up\surfs_up\Images\November Weather Statistics.png)
+      ![](/Images/November%20Weather%20Statistics.png)
 
 ### 3 - Recommendations. 
 
