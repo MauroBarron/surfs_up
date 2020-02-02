@@ -40,7 +40,7 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
   - So the temp in June varies within a range of 12 degrees  while the November range is 17 degrees where the low of 63 is 11 degress below average.
 - Overall, temperature in June and November tends to stay in the 70s with highs varying by six degrees above average in both months, and the lows in November dipping by a greater margin than June, to 63 degrees.
 
-![](Images/Oahu June Temperatures.png)
+![](/Images/Oahu June Temperatures.png)
 !{}(Images/Oahu June Temperatures.png)
 
 
