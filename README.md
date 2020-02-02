@@ -28,15 +28,24 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 
 - Potentially, during bad stormy days in November the rain could very well affect business.
 
+<<<<<<< HEAD
   
+=======
+  ![](/Images/fred.png)
+>>>>>>> 85c17c64ff851dcf12901539f8062f285001dbd2
 
   ​				![](Images/Oahu_June_Daily_Rain_in_Inches.png)
   
   ​	
+          ![](Images/Oahu November Daily Rain in Inches.png)
   
+<<<<<<< HEAD
   ​				![](Images/Oahu_November_Daily_Rain_in_Inches.png)
   
   
+=======
+          ![](/Images/fred.png)
+>>>>>>> 85c17c64ff851dcf12901539f8062f285001dbd2
 
 ##### Analysis of Temperature Differences
 
