@@ -28,13 +28,13 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 
 - Potentially, during bad stormy days in November the rain could very well affect business.
 
-  ![](C:\Users\Marishka\Documents\DABootCamp\W10-M9-Surfs_Up\surfs_up\Images\fred.png)
+  
 
-  ​				![](Images/Oahu June Daily Rain in Inches.png)
+  ​				![](Images/Oahu_June_Daily_Rain_in_Inches.png)
   
   ​	
   
-  ![](Images/Oahu November Daily Rain in Inches.png)
+  ​				![](Images/Oahu_November_Daily_Rain_in_Inches.png)
   
   
 
@@ -52,19 +52,19 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 
   ​	
 
-  ![](Images/Oahu June Temperatures.png)
+  ![](Images/Oahu_June_Temperatures.png)
   
-  ![](Images/Oahu November Temperatures.png)
+  ![](Images/Oahu_November_Temperatures.png)
 
 ##### June Weather Statistics
 
-![](Images/June Weather Statistics.png)
+![](Images/June_Weather_Statistics.png)
 
 ​									 
 
 ##### November Weather Statistics
 
-![](Images/November Weather Statistics.png)
+![](Images/November_Weather_Statistics.png)
 
   
 
