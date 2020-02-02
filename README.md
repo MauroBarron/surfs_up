@@ -46,6 +46,10 @@ The technical objectives are to use SQLAlchemy, Python and a provided SQLLite da
 
 ##### June Weather Statistics
 
+![June Weather Statistics](/Images/June Weather Statistics.png)
+
+![]()
+
 ![](C:\Users\Marishka\Documents\DABootCamp\W10-M9-Surfs_Up\surfs_up\Images\June Weather Statistics.png)
 
 ##### November Weather Statistics
